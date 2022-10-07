@@ -1,0 +1,38 @@
+<!--file studikasus5-12.html-->
+<html>
+<head>
+<title>Hyperlink dengan Gambar</title>
+</head>
+<body>
+<center>
+<table widht="200" cellspacing="1" cellpadding="1">
+	<tr>
+	<td><a href="studikasus5-13.html"><img src="itachi.jpg" width="250" height="250" border="0"></a></td>
+	</tr>
+	</center>
+	<tr>
+	<td><h2>FIRMAN Ramadhan</h2> </td>
+	</tr>
+</table>	
+</body>
+</html>
+<hr>
+<head>
+</head>
+<html>
+	<body><center>
+	<h2>Overview</h2>
+	<tr>
+	<td>HAI, Perkenalkan Nama saya Firman Ramadhan </td>
+	</tr>
+		<center><table border="1" width="70%"></center>
+		<tr>
+		<th><h3>Skill</h3></th>
+		<th><h3>Pengalaman</h3></th>
+		<ul>
+		<li>Amaterasu</li>
+		<li>Jounin</li>
+		</tr>
+		</table>
+	</body>
+</html>
